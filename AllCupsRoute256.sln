@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalizedWords", "CapitalizedWords\CapitalizedWords.csproj", "{38FCC532-C6BC-4EEC-863A-555E6A649245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingCharacters", "CountingCharacters\CountingCharacters.csproj", "{D0ACE7FC-CC17-4E6C-85EE-C968B8D76427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountFreeIPAdresses", "CountFreeIPAdresses\CountFreeIPAdresses.csproj", "{4933F130-A2E9-41B3-8F5E-72283EFE4979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSellersDilemma", "TheSellersDilemma\TheSellersDilemma.csproj", "{76F8C8C5-5C5E-438C-B4CE-6E45856AE68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonRomanNumbers", "ComparisonRomanNumbers\ComparisonRomanNumbers.csproj", "{404B73AB-45CA-492C-B67E-8DF9564499EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluatingBooleanExpression", "EvaluatingBooleanExpression\EvaluatingBooleanExpression.csproj", "{B3548F70-B1BA-4851-BA38-7BBD1F196552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FCC532-C6BC-4EEC-863A-555E6A649245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FCC532-C6BC-4EEC-863A-555E6A649245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FCC532-C6BC-4EEC-863A-555E6A649245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FCC532-C6BC-4EEC-863A-555E6A649245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0ACE7FC-CC17-4E6C-85EE-C968B8D76427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0ACE7FC-CC17-4E6C-85EE-C968B8D76427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0ACE7FC-CC17-4E6C-85EE-C968B8D76427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0ACE7FC-CC17-4E6C-85EE-C968B8D76427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4933F130-A2E9-41B3-8F5E-72283EFE4979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4933F130-A2E9-41B3-8F5E-72283EFE4979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4933F130-A2E9-41B3-8F5E-72283EFE4979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4933F130-A2E9-41B3-8F5E-72283EFE4979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F8C8C5-5C5E-438C-B4CE-6E45856AE68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F8C8C5-5C5E-438C-B4CE-6E45856AE68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F8C8C5-5C5E-438C-B4CE-6E45856AE68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F8C8C5-5C5E-438C-B4CE-6E45856AE68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404B73AB-45CA-492C-B67E-8DF9564499EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404B73AB-45CA-492C-B67E-8DF9564499EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404B73AB-45CA-492C-B67E-8DF9564499EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404B73AB-45CA-492C-B67E-8DF9564499EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3548F70-B1BA-4851-BA38-7BBD1F196552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3548F70-B1BA-4851-BA38-7BBD1F196552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3548F70-B1BA-4851-BA38-7BBD1F196552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3548F70-B1BA-4851-BA38-7BBD1F196552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E06A1C2-0EBE-4A0B-A7A9-6EDB7E1A32D5}
+	EndGlobalSection
+EndGlobal
